@@ -1,8 +1,8 @@
 package decoder
 
 import (
-	"github.com/FlyLand/grabana/row"
-	"github.com/FlyLand/grabana/text"
+	"github.com/K-Phoen/grabana/row"
+	"github.com/K-Phoen/grabana/text"
 )
 
 type DashboardText struct {

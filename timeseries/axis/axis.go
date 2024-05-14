@@ -3,7 +3,7 @@ package axis
 import (
 	"fmt"
 
-	"github.com/FlyLand/grabana/errors"
+	"github.com/K-Phoen/grabana/errors"
 	"github.com/K-Phoen/sdk"
 )
 

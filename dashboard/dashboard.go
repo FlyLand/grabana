@@ -7,14 +7,14 @@ import (
 	"encoding/hex"
 	"encoding/json"
 
-	"github.com/FlyLand/grabana/alert"
-	"github.com/FlyLand/grabana/row"
-	"github.com/FlyLand/grabana/variable/constant"
-	"github.com/FlyLand/grabana/variable/custom"
-	"github.com/FlyLand/grabana/variable/datasource"
-	"github.com/FlyLand/grabana/variable/interval"
-	"github.com/FlyLand/grabana/variable/query"
-	"github.com/FlyLand/grabana/variable/text"
+	"github.com/K-Phoen/grabana/alert"
+	"github.com/K-Phoen/grabana/row"
+	"github.com/K-Phoen/grabana/variable/constant"
+	"github.com/K-Phoen/grabana/variable/custom"
+	"github.com/K-Phoen/grabana/variable/datasource"
+	"github.com/K-Phoen/grabana/variable/interval"
+	"github.com/K-Phoen/grabana/variable/query"
+	"github.com/K-Phoen/grabana/variable/text"
 	"github.com/K-Phoen/sdk"
 )
 

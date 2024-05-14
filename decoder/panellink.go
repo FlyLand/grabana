@@ -1,7 +1,7 @@
 package decoder
 
 import (
-	"github.com/FlyLand/grabana/links"
+	"github.com/K-Phoen/grabana/links"
 )
 
 type DashboardPanelLinks []DashboardPanelLink

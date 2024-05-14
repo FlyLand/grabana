@@ -1,16 +1,16 @@
 package row
 
 import (
-	"github.com/FlyLand/grabana/alert"
-	"github.com/FlyLand/grabana/gauge"
-	"github.com/FlyLand/grabana/graph"
-	"github.com/FlyLand/grabana/heatmap"
-	"github.com/FlyLand/grabana/logs"
-	"github.com/FlyLand/grabana/singlestat"
-	"github.com/FlyLand/grabana/stat"
-	"github.com/FlyLand/grabana/table"
-	"github.com/FlyLand/grabana/text"
-	"github.com/FlyLand/grabana/timeseries"
+	"github.com/K-Phoen/grabana/alert"
+	"github.com/K-Phoen/grabana/gauge"
+	"github.com/K-Phoen/grabana/graph"
+	"github.com/K-Phoen/grabana/heatmap"
+	"github.com/K-Phoen/grabana/logs"
+	"github.com/K-Phoen/grabana/singlestat"
+	"github.com/K-Phoen/grabana/stat"
+	"github.com/K-Phoen/grabana/table"
+	"github.com/K-Phoen/grabana/text"
+	"github.com/K-Phoen/grabana/timeseries"
 	"github.com/K-Phoen/sdk"
 )
 

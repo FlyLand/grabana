@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/FlyLand/grabana/alert"
-	"github.com/FlyLand/grabana/alert/queries/graphite"
-	"github.com/FlyLand/grabana/alert/queries/loki"
-	"github.com/FlyLand/grabana/alert/queries/prometheus"
-	"github.com/FlyLand/grabana/alert/queries/stackdriver"
+	"github.com/K-Phoen/grabana/alert"
+	"github.com/K-Phoen/grabana/alert/queries/graphite"
+	"github.com/K-Phoen/grabana/alert/queries/loki"
+	"github.com/K-Phoen/grabana/alert/queries/prometheus"
+	"github.com/K-Phoen/grabana/alert/queries/stackdriver"
 )
 
 var ErrMissingRef = fmt.Errorf("target ref missing")

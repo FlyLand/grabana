@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/FlyLand/grabana/errors"
+	"github.com/K-Phoen/grabana/errors"
 )
 
 type Access string

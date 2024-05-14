@@ -3,8 +3,8 @@ package decoder
 import (
 	"fmt"
 
-	"github.com/FlyLand/grabana/row"
-	"github.com/FlyLand/grabana/stat"
+	"github.com/K-Phoen/grabana/row"
+	"github.com/K-Phoen/grabana/stat"
 )
 
 var ErrInvalidStatOrientation = fmt.Errorf("invalid orientation")

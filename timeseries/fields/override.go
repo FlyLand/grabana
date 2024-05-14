@@ -1,7 +1,7 @@
 package fields
 
 import (
-	"github.com/FlyLand/grabana/timeseries/axis"
+	"github.com/K-Phoen/grabana/timeseries/axis"
 	"github.com/K-Phoen/sdk"
 )
 

@@ -1,7 +1,7 @@
 package decoder
 
 import (
-	"github.com/FlyLand/grabana/dashboard"
+	"github.com/K-Phoen/grabana/dashboard"
 )
 
 type DashboardExternalLink struct {

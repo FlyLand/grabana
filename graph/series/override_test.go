@@ -3,7 +3,7 @@ package series
 import (
 	"testing"
 
-	"github.com/FlyLand/grabana/errors"
+	"github.com/K-Phoen/grabana/errors"
 	"github.com/K-Phoen/sdk"
 	"github.com/stretchr/testify/require"
 )

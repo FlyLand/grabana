@@ -3,8 +3,8 @@ package decoder
 import (
 	"testing"
 
-	"github.com/FlyLand/grabana/dashboard"
-	"github.com/FlyLand/grabana/logs"
+	"github.com/K-Phoen/grabana/dashboard"
+	"github.com/K-Phoen/grabana/logs"
 	"github.com/K-Phoen/sdk"
 	"github.com/stretchr/testify/require"
 )

@@ -3,7 +3,7 @@ package decoder
 import (
 	"fmt"
 
-	"github.com/FlyLand/grabana/alert"
+	"github.com/K-Phoen/grabana/alert"
 )
 
 var ErrNoAlertThresholdDefined = fmt.Errorf("no threshold defined")

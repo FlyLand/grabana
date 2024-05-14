@@ -1,7 +1,7 @@
 package golang
 
 import (
-	"github.com/FlyLand/grabana/logs"
+	"github.com/K-Phoen/grabana/logs"
 	"github.com/K-Phoen/jennifer/jen"
 	"github.com/K-Phoen/sdk"
 	"go.uber.org/zap"

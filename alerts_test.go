@@ -7,7 +7,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/FlyLand/grabana/alertmanager"
+	"github.com/K-Phoen/grabana/alertmanager"
 	"github.com/stretchr/testify/require"
 )
 

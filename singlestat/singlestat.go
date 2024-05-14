@@ -4,12 +4,12 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/FlyLand/grabana/errors"
-	"github.com/FlyLand/grabana/links"
-	"github.com/FlyLand/grabana/target/graphite"
-	"github.com/FlyLand/grabana/target/influxdb"
-	"github.com/FlyLand/grabana/target/prometheus"
-	"github.com/FlyLand/grabana/target/stackdriver"
+	"github.com/K-Phoen/grabana/errors"
+	"github.com/K-Phoen/grabana/links"
+	"github.com/K-Phoen/grabana/target/graphite"
+	"github.com/K-Phoen/grabana/target/influxdb"
+	"github.com/K-Phoen/grabana/target/prometheus"
+	"github.com/K-Phoen/grabana/target/stackdriver"
 	"github.com/K-Phoen/sdk"
 )
 

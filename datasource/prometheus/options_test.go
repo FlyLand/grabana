@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/FlyLand/grabana/errors"
+	"github.com/K-Phoen/grabana/errors"
 	"github.com/stretchr/testify/require"
 )
 

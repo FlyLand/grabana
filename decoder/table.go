@@ -1,8 +1,8 @@
 package decoder
 
 import (
-	"github.com/FlyLand/grabana/row"
-	"github.com/FlyLand/grabana/table"
+	"github.com/K-Phoen/grabana/row"
+	"github.com/K-Phoen/grabana/table"
 )
 
 // DashboardTable represents a table panel.
