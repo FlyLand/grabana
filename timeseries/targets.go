@@ -1,11 +1,11 @@
 package timeseries
 
 import (
-	"github.com/K-Phoen/grabana/target/graphite"
-	"github.com/K-Phoen/grabana/target/influxdb"
-	"github.com/K-Phoen/grabana/target/loki"
-	"github.com/K-Phoen/grabana/target/prometheus"
-	"github.com/K-Phoen/grabana/target/stackdriver"
+	"github.com/FlyLand/grabana/target/graphite"
+	"github.com/FlyLand/grabana/target/influxdb"
+	"github.com/FlyLand/grabana/target/loki"
+	"github.com/FlyLand/grabana/target/prometheus"
+	"github.com/FlyLand/grabana/target/stackdriver"
 	"github.com/K-Phoen/sdk"
 )
 

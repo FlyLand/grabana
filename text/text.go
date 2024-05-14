@@ -3,8 +3,8 @@ package text
 import (
 	"fmt"
 
-	"github.com/K-Phoen/grabana/errors"
-	"github.com/K-Phoen/grabana/links"
+	"github.com/FlyLand/grabana/errors"
+	"github.com/FlyLand/grabana/links"
 	"github.com/K-Phoen/sdk"
 )
 

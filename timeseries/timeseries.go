@@ -3,13 +3,13 @@ package timeseries
 import (
 	"fmt"
 
-	"github.com/K-Phoen/grabana/alert"
-	"github.com/K-Phoen/grabana/errors"
-	"github.com/K-Phoen/grabana/links"
-	"github.com/K-Phoen/grabana/scheme"
-	"github.com/K-Phoen/grabana/timeseries/axis"
-	"github.com/K-Phoen/grabana/timeseries/fields"
-	"github.com/K-Phoen/grabana/timeseries/threshold"
+	"github.com/FlyLand/grabana/alert"
+	"github.com/FlyLand/grabana/errors"
+	"github.com/FlyLand/grabana/links"
+	"github.com/FlyLand/grabana/scheme"
+	"github.com/FlyLand/grabana/timeseries/axis"
+	"github.com/FlyLand/grabana/timeseries/fields"
+	"github.com/FlyLand/grabana/timeseries/threshold"
 	"github.com/K-Phoen/sdk"
 )
 

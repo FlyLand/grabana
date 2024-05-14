@@ -6,12 +6,12 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/K-Phoen/grabana"
-	"github.com/K-Phoen/grabana/alertmanager"
-	"github.com/K-Phoen/grabana/alertmanager/email"
-	"github.com/K-Phoen/grabana/alertmanager/opsgenie"
-	"github.com/K-Phoen/grabana/alertmanager/slack"
-	"github.com/K-Phoen/grabana/alertmanager/webhook"
+	"github.com/FlyLand/grabana"
+	"github.com/FlyLand/grabana/alertmanager"
+	"github.com/FlyLand/grabana/alertmanager/email"
+	"github.com/FlyLand/grabana/alertmanager/opsgenie"
+	"github.com/FlyLand/grabana/alertmanager/slack"
+	"github.com/FlyLand/grabana/alertmanager/webhook"
 )
 
 func main() {

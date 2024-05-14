@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/K-Phoen/grabana/datasource"
+	"github.com/FlyLand/grabana/datasource"
 	"github.com/K-Phoen/sdk"
 )
 

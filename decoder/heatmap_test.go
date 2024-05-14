@@ -3,8 +3,8 @@ package decoder
 import (
 	"testing"
 
-	"github.com/K-Phoen/grabana/heatmap/axis"
-	"github.com/K-Phoen/grabana/row"
+	"github.com/FlyLand/grabana/heatmap/axis"
+	"github.com/FlyLand/grabana/row"
 	"github.com/K-Phoen/sdk"
 	"github.com/stretchr/testify/require"
 )

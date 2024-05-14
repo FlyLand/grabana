@@ -9,11 +9,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/K-Phoen/grabana/alert"
-	"github.com/K-Phoen/grabana/dashboard"
-	"github.com/K-Phoen/grabana/row"
-	"github.com/K-Phoen/grabana/text"
-	"github.com/K-Phoen/grabana/timeseries"
+	"github.com/FlyLand/grabana/alert"
+	"github.com/FlyLand/grabana/dashboard"
+	"github.com/FlyLand/grabana/row"
+	"github.com/FlyLand/grabana/text"
+	"github.com/FlyLand/grabana/timeseries"
 	"github.com/K-Phoen/sdk"
 	"github.com/stretchr/testify/require"
 )

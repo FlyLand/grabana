@@ -3,7 +3,7 @@ package jaeger
 import (
 	"encoding/json"
 
-	"github.com/K-Phoen/grabana/datasource"
+	"github.com/FlyLand/grabana/datasource"
 	"github.com/K-Phoen/sdk"
 )
 

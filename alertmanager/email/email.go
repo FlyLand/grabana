@@ -3,7 +3,7 @@ package email
 import (
 	"strings"
 
-	"github.com/K-Phoen/grabana/alertmanager"
+	"github.com/FlyLand/grabana/alertmanager"
 	"github.com/K-Phoen/sdk"
 )
 

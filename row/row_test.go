@@ -3,9 +3,9 @@ package row
 import (
 	"testing"
 
-	"github.com/K-Phoen/grabana/alert"
-	"github.com/K-Phoen/grabana/graph"
-	"github.com/K-Phoen/grabana/timeseries"
+	"github.com/FlyLand/grabana/alert"
+	"github.com/FlyLand/grabana/graph"
+	"github.com/FlyLand/grabana/timeseries"
 	"github.com/K-Phoen/sdk"
 	"github.com/stretchr/testify/require"
 )

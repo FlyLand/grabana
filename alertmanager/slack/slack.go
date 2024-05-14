@@ -1,7 +1,7 @@
 package slack
 
 import (
-	"github.com/K-Phoen/grabana/alertmanager"
+	"github.com/FlyLand/grabana/alertmanager"
 	"github.com/K-Phoen/sdk"
 )
 
