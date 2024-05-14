@@ -51,6 +51,16 @@ type Builder struct {
 	alerts []*alert.Alert
 }
 
+func NewWithBoard(b *sdk.Board, options ...Option) (Builder, error) {
+	builder := &Builder{board: b}
+	for _, opt := range append(defaults(), options...) {
+		if err := opt(builder); err != nil {
+			return *builder, err
+		}
+	}
+	return *builder, nil
+}
+
 // New creates a new dashboard builder.
 func New(title string, options ...Option) (Builder, error) {
 	board := sdk.NewBoard(title)
